@@ -188,6 +188,8 @@ var words = []string{
 	"cluckle",
 	"bok bok",
 	"bok-bok-bok",
+	"big boi",
+	"tiny",
 	// Disco chicken words
 	"boogie bawk",
 	"funky feather",
