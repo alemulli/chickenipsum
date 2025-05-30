@@ -36,7 +36,7 @@ import (
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-// LoremIpsum represents the dogipsum generator
+// LoremIpsum represents the chickenipsum generator
 type LoremIpsum struct{}
 
 // Constants for sentence generation
@@ -48,6 +48,7 @@ const (
 // List of possible chicken-themed words
 var words = []string{
 	// Normal chicken words
+	"disco",
 	"chicken",
 	"cluck",
 	"bawk",
@@ -243,7 +244,7 @@ var words = []string{
 	"Precious",
 }
 
-// Generate creates "Lorem ipsum" style words with dog-themed content
+// Generate creates "Lorem ipsum" style words with chicken-themed content
 func (l *LoremIpsum) Generate(numWords int) string {
 	if numWords <= 0 {
 		numWords = 100 // Default value
@@ -374,6 +375,6 @@ func main() {
 	// Create lorem ipsum generator
 	lorem := &LoremIpsum{}
 
-	// Generate and print the dog-themed lorem ipsum text
+	// Generate and print the chicken-themed lorem ipsum text
 	fmt.Println(lorem.Generate(*numWords))
 }
