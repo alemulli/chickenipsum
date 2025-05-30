@@ -55,7 +55,7 @@ chickenipsum -words 50
 ## Example Output
 
 ```
-chickengo shibe puggorino shoob borking chickengo. chickengorino extremely cuuuuuute, floofs smol pupper big ol pupper. Tungg extremely cuuuuuute smol borking chickengo with a long snoot for pats extremely cuuuuuute borking chickengo, such treat shooberino shoober chickengo. Big ol pupper extremely cuuuuuute long woofer chickene chickengorino noodle horse, very taste wow fluffer blop floofs. Thicc shibe boofers, yapper heckin good boys and girls long chickengo.
+disco chicken pecklehead flufflebawk beegees bantam beak bonker peep squeak wingy dingy squawkle, hen-hop beak bean roost ruler egg plopper beak bean hen-tertainer. Perch potato bawkawk peepadoo Ruby, puddle peep. Egg dropper squawkle nest snuggler egg machine biddy bonkers, pocket clucker yolk-a-doodle-doo chickadee. Feather flares mini pluff tiny squawker saturday night cluck bawklet bitty biddy Hawk-Eye snuggle nugget, mini bawk peepadoop bawklet rawwk bawk. Chirple bean Hawk-Eye feather bean pecklehead waddle waddle snuggle peeper, cheep cheepums clucklehead feather flares bitty.
 ```
 
 ## Development
@@ -82,4 +82,4 @@ This software is provided under the MIT license. See the source code for full li
 
 - Original JavaScript implementation: Mathew Tinsley (tinsley@tinsology.net) and Rick Viscomi (rviscomi@gmail.com)
 - Go implementation: [Jacob Price](https://github.com/jacobprice)
-- Chicken implementation [Lex Mullin](https://github.com/alemulli) and [Zoe Zinn](https://github.com/zoemzinn)
+- Chicken implementation [Lex Mullin](https://github.com/alemulli), [Zoe Zinn](https://github.com/zoemzinn), and Ainsley Price (Thank you for the chicken names). 
