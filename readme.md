@@ -82,4 +82,4 @@ This software is provided under the MIT license. See the source code for full li
 
 - Original JavaScript implementation: Mathew Tinsley (tinsley@tinsology.net) and Rick Viscomi (rviscomi@gmail.com)
 - Go implementation: [Jacob Price](https://github.com/jacobprice)
-- Chicken implementation [Lex Mullin](https://github.com/alemulli), [Zoe Zinn](https://github.com/zoemzinn), and Ainsley Price (Thank you for the chicken names). 
+- Chicken implementation: [Lex Mullin](https://github.com/alemulli), [Zoe Zinn](https://github.com/zoemzinn), and Ainsley Price (thank you for the chicken names). 
