@@ -45,9 +45,9 @@ fi
 
 # Construct the GitHub release URL
 if [ "$VERSION" = "latest" ]; then
-  RELEASE_URL="https://github.com/alemullin/chickenipsum/releases/latest/download/chickenipsum_${OS}_${ARCH}${EXT}"
+  RELEASE_URL="https://github.com/alemulli/chickenipsum/releases/latest/download/chickenipsum_${OS}_${ARCH}${EXT}"
 else
-  RELEASE_URL="https://github.com/alemullin/chickenipsum/releases/download/${VERSION}/chickenipsum_${OS}_${ARCH}${EXT}"
+  RELEASE_URL="https://github.com/alemulli/chickenipsum/releases/download/${VERSION}/chickenipsum_${OS}_${ARCH}${EXT}"
 fi
 
 # Create temp directory
