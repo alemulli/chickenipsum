@@ -50,6 +50,13 @@ var words = []string{
 	// Normal chicken words
 	"disco",
 	"chicken",
+	"hen",
+	"chick",
+	"coop critter",
+	"feathered friend",
+	"sky floof",
+	"flapper",
+	"sky bean",
 	"cluck",
 	"chickengorino",
 	"extremely cuuuuuute",
@@ -206,6 +213,7 @@ var words = []string{
 	"mildly feral",
 	"flop mode engaged",
 	"shenanigan-prone",
+	"sky nugget",
 	// Disco chicken words
 	"boogie bawk",
 	"funky feather",
